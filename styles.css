@@ -8,15 +8,12 @@
     padding: 0;
 }
 
-/* ,    url(images/bg-pattern-top.svg); */
-
 body {
     font-family: "Kumbh Sans", sans-serif;
     font-weight: 400;
     background-image: url(images/bg-pattern-bottom.svg),
         url(images/bg-pattern-top.svg);
     background-color: #19a1ad;
-
     background-repeat: no-repeat, no-repeat;
     background-size: 500px 500px;
     background-position: -175% 120%, 250% -50%;
